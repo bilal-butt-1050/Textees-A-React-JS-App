@@ -1,0 +1,38 @@
+#textbox{
+  border: 2px solid black;
+}
+
+.btn{
+  background-color: black;
+  color: white;
+}
+
+.btn:hover{
+  background-color: #198754;
+  color: white;
+}
+
+.form-label{
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.mode{
+    background-color: black;
+    color: white;
+}
+
+
+textarea.mode::placeholder {
+  color: rgb(199, 198, 198);
+}
+
+
+textarea.mode{
+  color: white !important;
+  background-color: black !important;
+}
+
+textarea.change-color{
+  color: red !important;
+}
