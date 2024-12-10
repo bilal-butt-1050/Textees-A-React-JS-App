@@ -36,3 +36,20 @@ textarea.mode{
 textarea.change-color{
   color: red !important;
 }
+
+.alert-height{
+  height: 3rem;
+}
+
+ button.btn.btn-disabled{
+  opacity: 0.5; 
+  cursor: not-allowed;
+  background-color: #d3d3d3; 
+  color: #999; 
+  border: 1px solid #ccc;
+}
+
+.btn-mode{
+  background-color: white;
+  color: black;
+} 
